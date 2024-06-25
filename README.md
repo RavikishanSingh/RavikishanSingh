@@ -18,6 +18,7 @@ Data analysis and visualization initiatives.
 
 📫 Connect with Me
 Instagram: @singh_ravikishan23
+
 gmail: ravikishansingh23@gmail.com
 
 ⚡ Fun Fact
