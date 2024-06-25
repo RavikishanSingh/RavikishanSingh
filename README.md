@@ -1,12 +1,14 @@
-👋 Hello, I'm Ravikishan Singh!
+👋 #Hello, I'm Ravikishan Singh!
 
-👀 About Me
+👀 #About Me
 I'm passionate about coding and building innovative projects that make a difference.
 Currently diving deep into the world of Python, exploring its vast capabilities and applications.
 
 🌱 Current Learning Journey
 Python: Mastering the fundamentals and advanced concepts.
+
 Web Development: Expanding my skills in HTML, CSS, and JavaScript.
+
 Data Science: Beginning to explore data analysis and visualization techniques.
 
 💞️ Looking to Collaborate On
@@ -16,6 +18,7 @@ Data analysis and visualization initiatives.
 
 📫 Connect with Me
 Instagram: @singh_ravikishan23
+gmail: ravikishansingh23@gmail.com
 
 ⚡ Fun Fact
 I'm a tech enthusiast who loves exploring new technologies and staying updated with the latest trends.
