@@ -1,6 +1,6 @@
-👋 #Hello, I'm Ravikishan Singh!
+👋 Hello, I'm Ravikishan Singh!
 
-👀 #About Me
+👀 About Me
 I'm passionate about coding and building innovative projects that make a difference.
 Currently diving deep into the world of Python, exploring its vast capabilities and applications.
 
